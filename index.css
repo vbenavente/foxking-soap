@@ -1,0 +1,51 @@
+html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color:#FFA40D;
+        padding:5px;
+        font-size: 25px;
+        display: block;
+        width: 790px;
+        text-align: center;
+    }
+    nav {
+        line-height:;
+        background-color: #FFA40D;
+        width:790px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 790px;
+        display: inline-block;
+        text-align: center;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+      text-align: center;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
